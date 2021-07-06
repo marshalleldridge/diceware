@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+derby.log
+/diceware-db/
+
